@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'beforego',
     'main',
     'account',
-
+    'review',
 ]
 
 MIDDLEWARE = [
